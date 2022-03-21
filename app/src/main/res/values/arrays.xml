@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_supplements">
+        <item>Zink</item>
+        <item>Magnesium</item>
+        <item>Curcumin</item>
+        <item>L-Theanin</item>
+        <item>Bioperine</item>
+        <item>Vitamin D3</item>
+        <item>Iodine</item>
+        <item>Omega-3</item>
+        <item>Bacopa</item>
+        <item>Glycine</item>
+        <item>5 htp</item>
+        <item>Lutein</item>
+        <item>Copper</item>
+        <item>Vitamin B</item>
+    </string-array>
+
+    <string-array name="arr_nootropics">
+        <item>Ежовик</item>
+        <item>Коффеин</item>
+        <item>Alpha GPC</item>
+    </string-array>
+
+    <string-array name="arr_bundles">
+        <item>Коффеин + L-Theanine</item>
+        <item>Мухомор + Псилоцибин</item>
+    </string-array>
+
+<!--    <string-array name="arr_calendar">-->
+
+<!--    </string-array>-->
+
+<!--    <string-array name="arr_share">-->
+
+<!--    </string-array>-->
+
+<!--    <string-array name="arr_return_opinion">-->
+
+<!--    </string-array>-->
+
+    <string-array name="main_text_size_array">
+        <item>Большой текст</item>
+        <item>Средний текст</item>
+        <item>Маленький текст</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+
+<!-- Base application theme. -->
+<style name="Theme.BioHub" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">#97DDC5</item>
+    <item name="colorPrimaryDark">#00B3A4</item>
+    <item name="colorAccent">@color/white</item>
+    <item name="android:windowFullscreen">true</item>
+
+
+
+</style>
+
+<style name="Theme.BioHub.NoActionBar">
+    <item name="windowActionBar">true</item>
+    <item name="windowNoTitle">true</item>
+</style>
+
+<style name="Theme.BioHub.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+<style name="Theme.BioHub.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

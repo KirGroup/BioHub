@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/supplements"
+            android:icon="@drawable/ic_supplements"
+            android:title="@string/supplements" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nootropics"
+            android:icon="@drawable/ic_nootropics"
+            android:title="@string/nootropics" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bundles"
+            android:icon="@drawable/ic_bundles"
+            android:title="@string/bundles" />
+    </group>
+
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/calendar"-->
+<!--            android:icon="@drawable/ic_calendar"-->
+<!--            android:title="@string/calendar" />-->
+<!--    </group>-->
+
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/share"-->
+<!--            android:icon="@drawable/ic_share"-->
+<!--            android:title="@string/share" />-->
+<!--    </group>-->
+
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/return_opinion"-->
+<!--            android:icon="@drawable/ic_return_opinion"-->
+<!--            android:title="@string/return_opinion" />-->
+<!--    </group>-->
+</menu>
